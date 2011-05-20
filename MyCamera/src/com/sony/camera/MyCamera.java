@@ -76,7 +76,6 @@ private final class SurfaceViewCallback implements Callback{
 
 		camera.setParameters(parameters);
 		isPreview = true;
-//		camera.startPreview();
 	
 	}
 
