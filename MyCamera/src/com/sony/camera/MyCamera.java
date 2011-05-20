@@ -25,6 +25,7 @@ import android.view.WindowManager;
 public class MyCamera extends Activity {
 	
 	 private Camera camera;
+	 // new branch 111
 	 private boolean isPreview = false;
     /** Called when the activity is first created. */
     @Override
