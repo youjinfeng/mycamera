@@ -52,6 +52,7 @@ public class MyCamera extends Activity {
 		}
 	}
 		return super.onKeyDown(keyCode, event);
+		//on master-test branch
 	}
 private final class SurfaceViewCallback implements Callback{
 
