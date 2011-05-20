@@ -113,6 +113,8 @@ private final class SurfaceViewCallback implements Callback{
             camera.startPreview();   
         } catch (IOException e) {   
             e.printStackTrace();   
+            //Modify on new branch (1)
+
         }   
 // Modify on master branch (1)
         //Modify on master branch (2)
