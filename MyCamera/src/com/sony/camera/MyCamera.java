@@ -117,6 +117,7 @@ private final class SurfaceViewCallback implements Callback{
 // Modify on master branch (1)
         //Modify on master branch (2)
       //Modify on master branch (3)
+        //Modify on master branch (4)
 	}
 	   //This is my first time on master-test branch.
 	 //This is my second time on master-test branch (2).
