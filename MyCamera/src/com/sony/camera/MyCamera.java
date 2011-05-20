@@ -50,7 +50,9 @@ public class MyCamera extends Activity {
 		default:
 			break;
 		}
+		// on master
 	}
+	   //on new branch
 		return super.onKeyDown(keyCode, event);
 		//on master-test branch
 	}
