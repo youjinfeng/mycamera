@@ -115,6 +115,7 @@ private final class SurfaceViewCallback implements Callback{
             e.printStackTrace();   
         }   
 // Modify on master branch (1)
+        //Modify on master branch (2)
 	}
 	   //This is my first time on master-test branch.
    }
