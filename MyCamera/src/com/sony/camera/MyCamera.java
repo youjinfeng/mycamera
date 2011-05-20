@@ -73,7 +73,7 @@ private final class SurfaceViewCallback implements Callback{
 		parameters.setPictureFormat(PixelFormat.JPEG);
 		 /* ’’∆¨÷ ¡ø */  
         parameters.set("jpeg-quality", 85);   
-
+        
 		camera.setParameters(parameters);
 		isPreview = true;
 	
@@ -85,6 +85,7 @@ private final class SurfaceViewCallback implements Callback{
 			camera.stopPreview();
 			isPreview = false;
 		}
+		// release camera
 		camera.release();
 	}
 	   
