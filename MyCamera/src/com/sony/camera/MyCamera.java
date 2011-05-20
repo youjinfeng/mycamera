@@ -27,6 +27,7 @@ public class MyCamera extends Activity {
 	 private Camera camera;
 	 // new branch 111
 	 private boolean isPreview = false;
+	 // master-test 222
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -55,6 +56,7 @@ public class MyCamera extends Activity {
 	}
 	   //on new branch
 		return super.onKeyDown(keyCode, event);
+		//on master-test branch
 	}
 private final class SurfaceViewCallback implements Callback{
 
