@@ -26,6 +26,7 @@ public class MyCamera extends Activity {
 	
 	 private Camera camera;
 	 private boolean isPreview = false;
+	 // master-test 222
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
